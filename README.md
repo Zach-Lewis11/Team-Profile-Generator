@@ -30,6 +30,9 @@ Once you have the repo copied onto your computer, use the command "npm i" in mak
 
 ## Usage
 
+### Demo link 
+[APP DEMO](https://watch.screencastify.com/v/KEO8ykEvcJP0GRQd53fR)
+
 Once downloaded, follow the prompts and enter the teams information in the corresponding fields, repeat this process for all the team members. once done, clicked finished and the html page will be generated.
 
 ---
