@@ -39,7 +39,7 @@ Once downloaded, follow the prompts and enter the teams information in the corre
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+<a href="https://watch.screencastify.com/v/KEO8ykEvcJP0GRQd53fR" target="_blank">APP DEMO</a>
 
 ---
 
